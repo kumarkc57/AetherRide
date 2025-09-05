@@ -1,0 +1,9 @@
+# AetherRide
+
+A simple server–client demo project using **Flask** in Python.
+
+## 🚀 How to Run
+
+### 1. Start the server
+```bash
+python server.py
