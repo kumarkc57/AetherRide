@@ -1,3 +1,10 @@
+
+## Team Members
+
+- Kumar K C
+- Ayush Gowda. P
+- Yagnesh. L 
+
 # 🚖 AetherRide
 
 AetherRide is a simple client-server project that demonstrates how ride requests can be sent from a **client** to a **server** using Python.  
